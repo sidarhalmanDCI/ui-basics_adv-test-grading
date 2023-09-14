@@ -1,5 +1,4 @@
-const points =
-    [
+const points = [
         {
             id: 1,
             question: 'Add "hero.jpg" as a background image in the header of the page. The background image should cover the whole header, it should not repeat itself and the image should be at the center of the header.(10 point)',
